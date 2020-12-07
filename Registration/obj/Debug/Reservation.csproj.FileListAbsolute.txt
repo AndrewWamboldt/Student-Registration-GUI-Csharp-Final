@@ -1,0 +1,7 @@
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions - fall2016\Assignment1\Reservation\bin\Debug\Reservation.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions - fall2016\Assignment1\Reservation\bin\Debug\Reservation.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions - fall2016\Assignment1\Reservation\obj\Debug\Reservation.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions - fall2016\Assignment1\Reservation\obj\Debug\Reservation.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions - fall2016\Assignment1\Reservation\obj\Debug\Reservation.csprojResolveAssemblyReference.cache
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions\Assignment1\Reservation\obj\Debug\Reservation.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions\Assignment1\Reservation\obj\Debug\Reservation.pdb

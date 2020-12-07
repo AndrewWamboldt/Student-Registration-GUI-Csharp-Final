@@ -1,0 +1,38 @@
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Payroll\bin\Debug\Payroll.exe
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Payroll\bin\Debug\Payroll.pdb
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Payroll\obj\Debug\Payroll.exe
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Payroll\obj\Debug\Payroll.pdb
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Payroll\obj\Debug\Payroll.exe
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Payroll\obj\Debug\Payroll.pdb
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Payroll\bin\Debug\Payroll.exe
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Payroll\bin\Debug\Payroll.pdb
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Payroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\obj\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\bin\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\bin\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment4\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment4\Payroll\obj\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment4\Payroll\bin\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment4\Payroll\bin\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment4\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment3\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment3\Payroll\obj\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment3\Payroll\bin\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment3\Payroll\bin\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment3\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment2\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment2\Payroll\obj\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment2\Payroll\bin\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment2\Payroll\bin\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment2\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment1\Payroll\bin\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment1\Payroll\bin\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring2016\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited-spring2016\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.pdb
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.exe
+C:\Min\min\teaching\BUS-ADM-432-prohibited\AssignmentSolutions\Assignment1\Payroll\obj\Debug\Payroll.pdb
